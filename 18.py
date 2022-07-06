@@ -2,3 +2,7 @@
 grade = {'pey':10, 'juliet':99}
 grade['pey']
 grade['juliet']
+
+a = {1:'a', 2:'b'}
+a[1]
+a[2]
